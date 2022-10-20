@@ -20,5 +20,6 @@ public class Test05 {
     @Test
     public void test2222(){
         System.out.println("1232131212122121");
+        System.out.println("update !!!");
     }
 }
