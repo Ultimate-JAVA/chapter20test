@@ -11,6 +11,7 @@ public class Test05 {
         System.out.println("测试2");
         System.out.println("测试3");
         System.out.println("测试4");
+        System.out.println("hot-fix test1");
         System.out.println("master test1");
     }
 }
