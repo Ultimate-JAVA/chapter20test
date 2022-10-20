@@ -13,5 +13,12 @@ public class Test05 {
         System.out.println("测试4");
         System.out.println("hot-fix test1");
 
+
+
+
+    }
+    @Test
+    public void test2222(){
+        System.out.println("1232131212122121");
     }
 }
