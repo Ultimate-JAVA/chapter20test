@@ -1,4 +1,12 @@
 package com.sz.guigu;
 
-public class Test05<T> {
+import org.junit.Test;
+
+public class Test05 {
+
+
+    @Test
+    public void test01() {
+        System.out.println("测试1");
+    }
 }
